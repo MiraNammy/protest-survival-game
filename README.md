@@ -1,5 +1,3 @@
-# protest-survival-game
-HTML5 survival game in browser
 # Protest Survival Game
 
 **Description:**  
@@ -17,5 +15,5 @@ Protest Survival is an HTML5/JavaScript browser game. You control a player tryin
 - `images/` — all sprites  
 - `audio/` — background music and sound effects
 
-**Author:** Mira_Nammy  
-
+**Author:** Mira_Nammy
+ 
